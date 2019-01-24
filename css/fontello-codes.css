@@ -1,0 +1,5 @@
+
+.icon-pencil:before { content: '\e800'; } /* '' */
+.icon-pen:before { content: '\e801'; } /* '' */
+.icon-edit:before { content: '\e802'; } /* '' */
+.icon-graduation-cap:before { content: '\e803'; } /* '' */
